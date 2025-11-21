@@ -5,6 +5,7 @@
 Orientation USB C Up and facing you
 
 BOOT Right
+
 RESET Left
 
 press and hold the BOOT and then press RESET
